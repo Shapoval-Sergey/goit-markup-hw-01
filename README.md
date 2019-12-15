@@ -1,5 +1,7 @@
 # Лев
 
+![Lion](https://cdn.pixabay.com/photo/2014/12/22/10/04/lion-577104_960_720.jpg)
+
 **Лев** (лат. Panthera [leo](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2) )
 — вид хищных млекопитающих, один из четырёх представителей рода пантер
 (Panthera), относящегося к подсемейству больших кошек (Pantherinae) в составе
